@@ -1,0 +1,10 @@
+{
+    "files.exclude": {
+        ".AppleDouble": true,
+        ".vscode": true,
+        "data/.AppleDouble": true,
+        "sample/.AppleDouble": true,
+        "sample/211206_lego/.AppleDouble": true
+    },
+    "workspace.isHidden": false
+}
